@@ -1,0 +1,10 @@
+{
+	"week": "51st of 2011",
+	"games":
+	[
+		{ "url": "https://rawgit.com/brad-jones/nodecodingtest/master/02_basketball/data/game1.json" },
+		{ "url": "https://rawgit.com/brad-jones/nodecodingtest/master/02_basketball/data/game2.json" },
+		{ "url": "https://rawgit.com/brad-jones/nodecodingtest/master/02_basketball/data/game3.json" },
+		{ "url": "https://rawgit.com/brad-jones/nodecodingtest/master/02_basketball/data/game4.json" }
+	]
+}

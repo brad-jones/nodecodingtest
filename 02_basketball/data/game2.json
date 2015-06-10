@@ -1,0 +1,8 @@
+{
+	"id": "2",
+	"teams":
+	[
+		{"name": "San Antonio Spurs", "score": 40},
+		{"name": "Cleveland Cavaliers", "score": 50}
+	]
+}

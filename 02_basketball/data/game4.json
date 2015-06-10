@@ -1,0 +1,8 @@
+{
+	"id": "4",
+	"teams":
+	[
+		{"name": "Miami Heat", "score": 88},
+		{"name": "Toronto Raptors", "score": 100}
+	]
+}
