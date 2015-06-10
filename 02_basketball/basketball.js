@@ -4,10 +4,10 @@
 	$.getJSON("https://rawgit.com/brad-jones/nodecodingtest/master/02_basketball/data/thisweek.json", function(data)
 	{
 		// Loop through each of the games
-		$.each(data.games, function(key, url)
+		$.each(data.games, function(key, value)
 		{
 			// Request the games details
-			$.getJSON(url, function(game)
+			$.getJSON(value.url, function(game)
 			{
 				// Output the game summary
 				console.log
